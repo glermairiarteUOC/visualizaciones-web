@@ -1,0 +1,14 @@
+# Ignora archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignora dependencias de Node.js (si usas npm/yarn)
+node_modules/
+
+# Ignora archivos temporales de editores
+*.swp
+*.swo
+
+# Ignora carpetas de salida o compilación (si llegas a usar alguna)
+dist/
+build/
